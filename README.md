@@ -7,7 +7,7 @@
 1. Bu projeyi klonlayın veya ZIP dosyası olarak indirin.
 
 ```
-git clone https://github.com/betomoedano/ChatApp.git
+https://github.com/Cumalioguz/TicketBooking.git
 ```
 
 2.  Terminali açın ve proje dizinine gidin.

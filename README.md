@@ -7,7 +7,7 @@
 1. Bu projeyi klonlayın veya ZIP dosyası olarak indirin.
 
 ```
-https://github.com/Cumalioguz/TicketBooking.git
+git clone https://github.com/Cumalioguz/TicketBooking.git
 ```
 
 2.  Terminali açın ve proje dizinine gidin.

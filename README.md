@@ -6,18 +6,22 @@
 
 1. Bu projeyi klonlayın veya ZIP dosyası olarak indirin.
 
-```bash
-git clone https://github.com/cumalioguz/TicketBooking.git
+```
+git clone https://github.com/betomoedano/ChatApp.git
+```
 
-2. Terminali açın ve proje dizinine gidin.
-```bash
+2.  Terminali açın ve proje dizinine gidin.
+```
 cd TicketBooking
+```
 3. Bağımlılıkları yüklemek için aşağıdaki komutu çalıştırın.
-```bash
+```
 npm install
+```
 4. Proje çalıştırmak için aşağıdaki komutu kullanın.
-```bash
+```
 npx expo start
+```
 
 ## Kullanılan Sürümler
 - Expo: 48.0.15

@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "bus":"Mersin Nur",
+        "from": "erzurum",
+        "to": "kars",
+        "date": "2023-01-01",
+        "time": "12:00 PM",
+        "seatPrice": 10,
+        "seats": ["male", "female", "empty", "empty", "empty", "empty", "male", "empty", "female", "empty", "male", "female", "empty", "empty", "empty", "empty", "male", "empty"]
+    },
+    {
+        "id": 2,
+        "bus":"As Adana",
+        "from": "erzurum",
+        "to": "kars",
+        "date": "2023-01-02",
+        "time": "02:00 PM",
+        "seatPrice": 12,
+        "seats": ["empty", "male", "empty", "female", "empty", "empty", "empty", "male", "female", "empty", "empty", "male", "empty", "female", "empty", "empty", "empty", "male"]
+    },
+    {
+        "id": 3,
+        "bus":"Kontur",
+        "from": "erzurum",
+        "to": "kars",
+        "date": "2023-01-03",
+        "time": "09:30 AM",
+        "seatPrice": 8,
+        "seats": ["male", "empty", "female", "empty", "empty", "empty", "male", "empty", "female", "empty", "male", "empty", "empty", "empty", "empty", "empty", "male", "empty"]
+    },
+    {
+        "id": 4,
+        "bus":"Özkaymak",
+        "from": "kars",
+        "to": "erzurum",
+        "date": "2023-01-04",
+        "time": "04:30 PM",
+        "seatPrice": 15,
+        "seats": ["male", "empty", "female", "empty", "empty", "male", "empty", "empty", "empty", "empty", "empty", "female", "empty", "empty", "male", "empty", "female", "empty"]
+    },
+    {
+        "id": 5,
+        "bus":"Kamil Koç",
+        "from": "kars",
+        "to": "erzurum",
+        "date": "2023-01-05",
+        "time": "07:45 AM",
+        "seatPrice": 9,
+        "seats": ["empty", "empty", "male", "empty", "empty", "empty", "empty", "female", "empty", "empty", "empty", "empty", "female", "empty", "empty", "male", "empty", "empty"]
+    }
+]

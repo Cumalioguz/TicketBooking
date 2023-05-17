@@ -28,7 +28,7 @@ npx expo start
 - React Native: 0.71.7
 - Node.js: 18.15.0
 
-### Bilet Arama Sayfasında bu verileri kullanın 
+## Bilet Arama Sayfasında bu verileri kullanın 
 1.
 - Nereden: kars
 - Nereye : erzurum
